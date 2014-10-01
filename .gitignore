@@ -16,3 +16,6 @@
 /tmp
 #ignore .idea folder
 /.idea/
+
+*.log
+
